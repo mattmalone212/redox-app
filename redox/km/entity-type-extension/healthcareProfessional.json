@@ -1,0 +1,12 @@
+{
+  "$id": "healthcareProfessional",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "enabled": false,
+  "entityType": "healthcareProfessional",
+  "field": [
+    {
+      "id": "redox_redoxHealthcareFacility",
+      "required": false
+    }
+  ]
+}
