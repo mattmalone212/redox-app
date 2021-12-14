@@ -1,7 +1,7 @@
 {
   "$id": "healthcareFacility",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
-  "enabled": false,
+  "enabled": true,
   "entityType": "healthcareFacility",
   "field": [
     {
