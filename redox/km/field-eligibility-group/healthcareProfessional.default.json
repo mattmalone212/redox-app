@@ -4,6 +4,7 @@
   "name": "Healthcare Professional-default",
   "entityType": "healthcareProfessional",
   "fields": [
-    "redox_redoxHealthcareFacility"
+    "redox_redoxHealthcareFacility",
+    "redox_webhookLocationID"
   ]
 }
