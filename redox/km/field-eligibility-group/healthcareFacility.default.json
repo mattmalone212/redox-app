@@ -4,6 +4,7 @@
   "name": "Healthcare Facility-default",
   "entityType": "healthcareFacility",
   "fields": [
-    "redox_redoxHealthcareFacility"
+    "redox_redoxHealthcareFacility",
+    "redox_webhookLocationIDs"
   ]
 }
