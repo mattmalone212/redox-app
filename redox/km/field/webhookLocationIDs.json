@@ -1,0 +1,18 @@
+{
+    "$id": "redox_webhookLocationIDs",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "Webhook Location IDs",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "type": {
+      "listType": {
+        "typeId": "string",
+        "type": {
+          "stringType": {
+            "stereotype": "SIMPLE"
+          }
+        }
+      }
+    },
+    "typeId": "list"
+  }
